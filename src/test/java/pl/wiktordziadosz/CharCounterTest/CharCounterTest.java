@@ -1,7 +1,9 @@
-package pl.wiktordziaodsz.letters;
+package pl.wiktordziadosz.CharCounterTest;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import pl.wiktordziadosz.CharCounter.CharCounter;
+
 public class CharCounterTest {
     @Test
     public void ItCountsCharInString() {

@@ -1,4 +1,4 @@
-package pl.wiktordziaodsz.letters;
+package pl.wiktordziadosz.CharCounter;
 
 import java.util.function.Predicate;
 

@@ -1,8 +1,8 @@
-package pl.wiktordziadosz.credit;
+package pl.wiktordziadosz.GreeterTest;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.Assertions.*;
+import pl.wiktordziadosz.Greeter.Greeter;
 
 public class GreetingTest {
     @Test
