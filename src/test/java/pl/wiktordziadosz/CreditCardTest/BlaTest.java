@@ -1,8 +1,6 @@
 package pl.wiktordziadosz.CreditCardTest;
 
 import org.junit.jupiter.api.Test;
-import pl.wiktordziadosz.CreditCard.CardApi;
-import pl.wiktordziadosz.CreditCard.withdrawRequest;
 
 import java.math.BigDecimal;
 
